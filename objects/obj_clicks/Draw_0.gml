@@ -1,0 +1,1 @@
+draw_text(x,y,obj_p1.score_p1);
